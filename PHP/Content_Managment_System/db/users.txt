@@ -1,0 +1,8 @@
+admin,admin@mycms.ca,@Dm1N2018
+stardust,jynerso@rogueone.ca,1mdF0rC3
+stark,me@tony.stark,1mIR0nM@n
+vision,vision@avengers.org,1u53dT0beJ@rV15
+yoda,luminous@force.org,t0sch35t@t10n
+rey,rey@force.org,r3y
+luke,luke@force.org,balanc3
+kylo,kylo@galactic.empire,kyl0rulez

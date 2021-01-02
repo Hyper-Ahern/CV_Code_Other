@@ -1,0 +1,9 @@
+/*
+ * @attribution: This template is named "Jumbotron".
+ * 				 It was downloaded from the Bootstrap examples website: http://getbootstrap.com/docs/4.0/examples/jumbotron/
+ */
+
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
