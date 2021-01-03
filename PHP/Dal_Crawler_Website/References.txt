@@ -1,0 +1,7 @@
+Dropdown menu Code, and Jquerry in header.php was inspired (but heavily modified) by
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_js_dropdown_multilevel&stacked=h 
+which was access on March 30th, 2019
+
+All original code was written by R. V. Sampangi. 2018. Solution for Server-Side Scripting Assignment 3. In INFX2670:
+Introduction to Server-Side Scripting, Faculty of Computer Science, Dalhousie University,
+NS, Canada. Used with permission. (Modifed by Hyper A'Hern)
